@@ -1,7 +1,6 @@
 - 👋 Hi, I’m nanakshrestha
 - 👀 I’m interested in ...Programming but I m a learner.
 - 🌱 I’m currently learning  data science.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 NAnokz_7 Twitter
 <!---
