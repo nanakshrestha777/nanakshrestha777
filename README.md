@@ -1,5 +1,5 @@
 - 👋 Hi, I’m nanakshrestha
-- 👀 I’m interested in ...Programming but I m a learner.
+- 👀 I’m interested in pro and gramming.
 - 🌱 I’m currently learning  data science.
 - 📫 How to reach me ...
 NAnokz_7 Twitter
